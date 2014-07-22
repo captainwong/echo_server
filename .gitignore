@@ -1,0 +1,17 @@
+# Compiled Object files
+*.obj
+
+# vc6
+*.ncb
+*.opt
+*.plg
+*.clw
+*.aps
+*.log
+*.pch
+*.idb
+*.pdb
+*.ilk
+*.sbr
+*.bsc
+*.map
